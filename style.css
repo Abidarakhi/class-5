@@ -1,0 +1,159 @@
+.blog_post{
+    
+    width: 400px;
+    background-color: black;
+    font-family: arial;
+    padding: 40px;
+    color:white ;
+    box-sizing: border-box;
+    border-radius: 20px;
+    text-align: center;
+    
+
+}
+
+.blog_post h1{
+
+    color: red;
+    font-size: 20px;
+}
+
+.blog_post p{
+    text-align: justify;
+    line-height: 27px;
+
+}
+
+
+
+.blog_post2 {
+     width: 380px;
+     background-color:lightskyblue;
+
+
+    font-family: arial;
+    padding: 40px;
+    color:black;
+    box-sizing: border-box;
+    border-radius: 40px;
+    text-align: left;
+    display: inline-block;
+    margin: 50px auto;
+    
+}
+
+.blog_post2 a{
+    color: blue;
+    text-decoration: none;
+    background-color: beige;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+
+
+
+.blog_post3{
+    width: 380px;
+    background-image: url(./Fortnite_F_lettermark_logo.png);
+
+    font-family: arial;
+    padding: 40px;
+    color: black;
+    box-sizing: border-box;
+    border-radius: 40px;
+    text-align: justify;
+    display: inline-block;
+    margin: 50px auto;
+    line-height: 20px;
+
+}
+
+.blog_post3 h1{
+    text-align: center;
+}
+
+
+.blog_post4{
+    width: 400px;
+    background-image: url(../css/tree-736885__480.jpg);
+    font-family: arial;
+    padding: 40px;
+    color:white ;
+    box-sizing: border-box;
+    border-radius: 20px;
+    text-align: left;
+    line-height: 27px;
+    
+}
+
+
+
+.blog_post4 a{
+    color: white;
+    text-decoration:none;
+    background-color: black;
+    box-sizing: content-box;
+    border-radius: 5px;
+}
+
+
+
+.blog_post5{
+    width: 300px;
+    
+    background-image: url(./leaf-260nw-1864553437.webp);
+
+
+   font-family: arial;
+   padding: 40px;
+   color:black;
+   box-sizing: border-box;
+   line-height: 20px;
+   text-align: center;
+   display: inline-block;
+   margin: 50px auto;
+   
+}
+
+
+.blog_post6{
+    width: 400px;
+    background-image: url(./nature800.jpg);
+    font-family: arial;
+    padding: 40px;
+    color:white ;
+    box-sizing: border-box;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 27px;
+    
+}
+
+.blog_post7{
+    width: 400px;
+    background-image: url(./photo-1414609245224-afa02bfb3fda.jfif);
+    background-size: cover;
+    background-position: right;
+    font-family: arial;
+    padding: 40px;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 27px;
+    display: inline-block;
+   margin: 50px auto;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
